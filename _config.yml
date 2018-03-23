@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Yutsuki Miyashita"
 description              : "大学院でのことをBlogにしていこうかな"
 url                      : "https://mytheta.github.io/blog/"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog"
 repository               : "mytheta/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
