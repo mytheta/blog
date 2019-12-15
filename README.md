@@ -1,0 +1,2 @@
+# blog
+blogを書くためのrepo
